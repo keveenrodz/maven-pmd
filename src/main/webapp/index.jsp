@@ -6,7 +6,7 @@
     <%
         Random random = new Random();
         //System.out.println("Random: " + random.nextBoolean());
-        public static int emptyVariable;
+        int emptyVariable;
     %>
 
 </h2>
